@@ -18,7 +18,7 @@ bot = commands.Bot(command_prefix="$", intents = intents)
 
 @bot.event
 async def on_ready():
-    print("Bot wurde erfolgreich hochgefahren")
+    print("Bot is now running!")
 
 @bot.command(brief = "Sends a Picture of a random Silly Cat!")
 async def sillyCat(message):
