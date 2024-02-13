@@ -6,7 +6,7 @@ For that, just create a .env file containing: TOKEN=yourToken
 
 If not done already, install dotenv and discord via pip
 
-pip install discord
+pip install discord,
 pip install python-dotenv
 
 You can do whatever the hell you want with this Code.
